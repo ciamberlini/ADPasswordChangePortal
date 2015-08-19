@@ -1,0 +1,24 @@
+{
+  "en" : {
+    "help_file"               : "lang/help-en.html",
+
+    "account_locked"          : "This account is locked-out",
+    "authentication"          : "Authentication",
+    "cancel"                  : "Cancel",
+    "index_link"              : "Change Password",
+    "help_link"               : "Help",
+    "ok"                      : "OK",
+    "old_password"            : "Old Password",
+    "new_password1"           : "New Password",
+    "new_password2"           : "New Password (Again)",
+    "password_change_failed"  : "Could not Change Password",
+    "password_changed"        : "Password Changed",
+    "title"                   : "%s - Password Reset",
+    "username"                : "User Name",
+    "wrong_admin"             : "Wrong Configuration",
+    "wrong_new_pass"          : "New Password Do Not Match",
+    "wrong_pass"              : "Wrong Password",
+
+    "Server is unwilling to perform" : "Action is Rejected by Server"
+  }
+}

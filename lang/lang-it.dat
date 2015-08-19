@@ -1,0 +1,24 @@
+{
+  "it" : {
+    "help_file"               : "lang/help-it.html",
+
+    "account_locked"          : "Questo account e' bloccato",
+    "authentication"          : "Autenticazione",
+    "cancel"                  : "Annulla",
+    "index_link"              : "Cambia Password",
+    "help_link"               : "Aiuto",
+    "ok"                      : "OK",
+    "old_password"            : "Password Corrente",
+    "new_password1"           : "Nuova Password",
+    "new_password2"           : "Nuova Password (inserire di nuovo)",
+    "password_change_failed"  : "Non posso modificare la password",
+    "password_changed"        : "Password modificata",
+    "title"                   : "%s - Reset della Password",
+    "username"                : "Nome Utente",
+    "wrong_admin"             : "Errore di configurazione",
+    "wrong_new_pass"          : "Le password inserire non corrispondono",
+    "wrong_pass"              : "Password errata",
+
+    "Server is unwilling to perform" : "Azione non consentita dal server"
+  }
+}

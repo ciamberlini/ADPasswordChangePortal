@@ -1,0 +1,24 @@
+{
+  "tr" : {
+    "help_file"               : "lang/help-tr.html",
+
+    "account_locked"          : "Bu hesap şu an için kilitli",
+    "authentication"          : "Yetkilendirme",
+    "cancel"                  : "İptal",
+    "index_link"              : "Şifre Değiştirme",
+    "help_link"               : "Yardım",
+    "ok"                      : "Tamam",
+    "old_password"            : "Eski Şifre",
+    "new_password1"           : "Yeni Şifre",
+    "new_password2"           : "Yeni Şifre (Tekrar)",
+    "password_change_failed"  : "Şifreniz Değiştirilemedi.",
+    "password_changed"        : "Şifreniz Başarıyla Değiştirildi.",
+    "title"                   : "%s - Şifre Değiştirme",
+    "username"                : "Kullanıcı Adı",
+    "wrong_admin"             : "Hatalı Yapılandırma, Lütfen Sistem Yöneticinizle Görüşün",
+    "wrong_new_pass"          : "Yeni Şifreler Birbirini Tutmuyor",
+    "wrong_pass"              : "Hatalı Şifre",
+
+    "Server is unwilling to perform" : "Şifre değişikliği sunucu tarafından reddedildi."
+  }
+}
